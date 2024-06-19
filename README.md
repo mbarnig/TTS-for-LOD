@@ -5,4 +5,7 @@
 * [Marylux-648-TTS-Corpus](https://github.com/mbarnig/Marylux-648-TTS-Corpus)
 * [TTS Model lb-de-fr-en-pt-coqui-vits-tts](https://huggingface.co/mbarnig/lb-de-fr-en-pt-coqui-vits-tts)
 * [Mir schwätzen och Lëtzebuergesch !](https://huggingface.co/spaces/mbarnig/lb_de_fr_en_pt_COQUI_VITS_TTS)
-#### High-quality dataset
+#### New high-quality dataset
+To train a high-quality luxembourgish TTS voice, the [ZLS](https://portal.education.lu/zls) (Zenter fir d'Lëtzebuerger Sprooch) assembled an outstanding luxembourgish dataset of 
+39.684 audio samples, with related transciptions, recorded in studio quality by Max Kuborn. My Wiki-Page Dataset provides detailed informations about this corpus.
+
