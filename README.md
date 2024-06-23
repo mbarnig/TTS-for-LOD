@@ -8,19 +8,20 @@
 #### New high-quality dataset
 To train a high-quality luxembourgish TTS voice, the [ZLS](https://portal.education.lu/zls) (Zenter fir d'Lëtzebuerger Sprooch) assembled an outstanding luxembourgish dataset of 39.836 audio samples, with related transcriptions, recorded in studio quality by Max Kuborn. My Wiki-Page [Dataset](https://github.com/mbarnig/TTS_for_LOD/wiki/Dataset) provides detailed informations about this corpus.
 #### Processing environment
-The main hardware required for the TTS-training is a NVIDIA graphic card. My ancient TTS development system was set-up two years ago in a Linux-Ubuntu desktop with a NVIDIA RTX2070 card. When I started the training with the new dataset I was disappointed because my old scripts were no longer working without errors, probably due to automatic updates of some Python modules which are no longer compliant with my original configuration. After some frustrating attempts to handle the errors, I decided to restart from scatch and to set-up a new developement system on a Windows 11 labtop with a NVIDIA card . My Wiki-Page [Processing Environment](https://github.com/mbarnig/TTS-for-LOD/wiki/Processing-Environment) shows how to install all the required sofware.
-
-Installation of the Coqui-TTS Tools
-
-Training scripts
-
-Training process
-
-Evaluation
-
-Tensorboard
-
-Best Model
+The main hardware required for the TTS-training is a NVIDIA graphic card. My ancient TTS development system was set-up two years ago in a Linux-Ubuntu desktop with a NVIDIA RTX2070 card. When I started the training with the new dataset I was disappointed because my old scripts were no longer working without errors, probably due to automatic updates of some Python modules which are no longer compliant with my original configuration. After some frustrating attempts to handle the errors, I decided to restart from scatch and to set-up a new developement system on a Windows 11 labtop with a NVIDIA card RTX3060. My Wiki-Page [Processing Environment](https://github.com/mbarnig/TTS-for-LOD/wiki/Processing-Environment) shows how to install all the required sofware.
+#### VITS TTS model
+The choice of the Coqui-TTS-VITS model is explainde in my Wiki-Page [TTS-Model](https://github.com/mbarnig/TTS-for-LOD/wiki/TTS-Model)
+#### Installation of the Coqui-TTS Tools
+Creating the required developement environment on a personal computer takes some time and can be frustrating. I published a small guide on the Wiki-Page [Processing Environment](https://github.com/mbarnig/TTS-for-LOD/wiki/Processing-Environment)
+#### Training script
+The training script is the heart of the project. All details are provided at [Training Script](https://github.com/mbarnig/TTS-for-LOD/wiki/Training-Script)
+#### Training process
+It's important to understand the [Training Process](https://github.com/mbarnig/TTS-for-LOD/wiki/Training-Process)
+#### Evaluation
+The continuous evaluation of the training evolution is the hard job. I will extend the [Evaluation Guide](https://github.com/mbarnig/TTS-for-LOD/wiki/Evaluation) as soon as possible.
+#### Tensorboard
+I will add more figures to my Wiki-Page [Tensorboard](https://github.com/mbarnig/TTS-for-LOD/wiki/TensorBoard)
+#### Best Model
 
 Inference
 
