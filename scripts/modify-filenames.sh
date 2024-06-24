@@ -1,0 +1,1 @@
+get-childitem *.wav | rename-item -newname { [string]($_.name).substring(12) }
