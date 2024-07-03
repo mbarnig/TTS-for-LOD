@@ -12,7 +12,7 @@ The main hardware required for the TTS-training is a NVIDIA graphic card. My anc
 #### VITS TTS model
 The choice of the Coqui-TTS-VITS model is explained in my Wiki-Page [TTS-Model](https://github.com/mbarnig/TTS-for-LOD/wiki/TTS-Model)
 #### Installation of the Coqui-TTS Tools
-Creating the required developement environment on a personal computer takes some time and can be frustrating. I published a small guide on the Wiki-Page [Processing Environment](https://github.com/mbarnig/TTS-for-LOD/wiki/Processing-Environment)
+Creating the required developement environment on a personal computer takes some time and can be frustrating. I published a small guide on the Wiki-Page [Coqui-TTS Tools](https://github.com/mbarnig/TTS-for-LOD/wiki/Coqui%E2%80%90TTS-Tools).
 #### Training script
 The training script is the heart of the project. All details are provided at [Training Script](https://github.com/mbarnig/TTS-for-LOD/wiki/Training-Script)
 #### Training process
