@@ -24,4 +24,4 @@ I will add more figures to my Wiki-Page [Tensorboard](https://github.com/mbarnig
 #### Best Model
 These details will be provided at the end of the training in the Wiki-Page [Best Model](https://github.com/mbarnig/TTS-for-LOD/wiki/Best-Model).
 #### Inference
-When the model is ready, it can be used to synthesize luxembourgish texts. The scripts to run the synthesis and the access to public demo-spaces will be explained in the [Inference Guide](https://github.com/mbarnig/TTS-for-LOD/wiki/Inference)
+When the model is ready, it can be used to synthesize luxembourgish texts. The scripts to run the synthesis and the access to public demo-spaces will be explained in the [Inference Guide](https://github.com/mbarnig/TTS-for-LOD/wiki/Inference).
